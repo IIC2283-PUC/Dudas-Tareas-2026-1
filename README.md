@@ -5,7 +5,7 @@ En este repositorio, en la sección de [Issues](https://https://github.com/IIC22
 
 ## Formulario de Github
 
-Cada estudiante debe rellenar sus datos en este [Formulario]() para vincular sus usuarios de Github con sus correcciones. Se dará plazo para completar sus datos desde la publicación de la Tarea 1(9 de abril) hasta la finalización de esta (23 de abril) y el no hacerlo en este plazo limitará su nota en la Tarea 1 a un 4.0 como nota máxima.
+Cada estudiante debe rellenar sus datos en este [Formulario](https://forms.gle/WCtMvtBYcGKaT5aa8) para vincular sus usuarios de Github con sus correcciones. Se dará plazo para completar sus datos desde la publicación de la Tarea 1(9 de abril) hasta la finalización de esta (23 de abril) y el no hacerlo no hará posible que el equipo docente corriga las tareas del alumno.
 
 ## Reglas
 
